@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/80977237/124397691-d3914080-dce7-11eb-808f-029eed4f6241.png)
+![image](https://user-images.githubusercontent.com/80977237/124397758-3551aa80-dce8-11eb-91dd-72401aa51fd2.png)
+
 
 # Hi there, I'm Bruno, how you doin? 👋
 
