@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/80977237/124397433-2669f880-dce6-11eb-851a-fde52c7c64c1.png)
+![image](https://user-images.githubusercontent.com/80977237/124397476-6335ef80-dce6-11eb-8bb7-6bbb93ff7e79.png)
+
 
 
 ### Hi there, I'm Bruno Fernandes, how you doin? 👋
