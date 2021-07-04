@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/80977237/124397758-3551aa80-dce8-11eb-91dd-72401aa51fd2.png)
+<img src="https://www.canva.com/design/DAEjRHa2-dA/MNQeWUDsGYImdSiyHlYDMw/view?utm_content=DAEjRHa2-dA&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview" />
 
 
 # Hi there, I'm Bruno, how you doin? 👋
