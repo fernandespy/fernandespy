@@ -6,6 +6,6 @@
 - 🧰 Mostly code in Javascript (React + Node)
 - 💪 Specialized in Front End
 
-[Stats! ](https://github-readme-stats.vercel.app/api?username=brunofernandes23)](https://github.com/brunofernandes23/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=brunofernandes23)](https://github.com/brunofernandes23/github-readme-stats)
 
 
