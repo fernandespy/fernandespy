@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/80977237/124397526-a6905e00-dce6-11eb-9697-20ffb8b7ab6f.png)
 
 # Hi there, I'm Bruno, how you doin? 👋
 
