@@ -1,3 +1,5 @@
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-BRUNO-FERNANDES">
+
 ### Hi there, I'm Bruno, how you doin? 👋
 
 - 💻 Web Developer.
