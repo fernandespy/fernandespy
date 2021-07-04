@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/80977237/124397433-2669f880-dce6-11eb-851a-fde52c7c64c1.png)
+
+
 ### Hi there, I'm Bruno Fernandes, how you doin? 👋
 
 - 💻 Web Developer.
