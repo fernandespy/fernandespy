@@ -1,5 +1,5 @@
 
-# Hi there, I'm Bruno Fernandes, how you doin? 👋
+# Hi there, I'm Bruno, how you doin? 👋
 
 - 💻 Web Developer.
 - 📚 Learning Front End skills.
