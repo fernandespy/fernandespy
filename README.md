@@ -7,7 +7,7 @@
 - 💪 Specialized in Front End
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=brunofernandes23&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=brunofernandes23&show_icons=true&theme=tokyonight)
 
 
 
