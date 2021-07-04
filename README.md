@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEjRHa2-dA/c47abZ_JBnJnnltiw-HZsw/view?utm_content=DAEjRHa2-dA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://www.canva.com/design/DAEjRHa2-dA/c47abZ_JBnJnnltiw-HZsw/view?utm_content=DAEjRHa2-dA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 
 # Hi there, I'm Bruno, how you doin? 👋
 
