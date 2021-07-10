@@ -2,7 +2,7 @@
 
 - 💻 Web Developer.
 - 📚 Learning Front End skills.
-- 🧰 Mostly code in Javascript (React + Node).
+- 🧰 Mostly code in Javascript.
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳  Born in 1999.
 - 🔗 Find me on:
