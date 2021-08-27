@@ -1,8 +1,8 @@
 # Hi there, I'm Bruno, how you doin? 👋
 
 - 💻 Web Developer.
-- 📚 Learning Front End skills.
-- 🧰 Mostly code in Javascript.
+- 📚 Learning Front and Back end skills.
+- 🧰 Mostly code in Javascript. Learning Python !!
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳  Born in 1999.
 - 🔗 Find me on:
