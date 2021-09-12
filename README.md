@@ -2,7 +2,7 @@
 
 - 💻 Developer.
 - 📚 Learning Front and Back end skills.
-- 🧰 Mostly code in Javascript. Learning Python !!
+- 🧰 Mostly code in Javascript. 
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳  Born in 1999.
 - 🔗 Find me on:
