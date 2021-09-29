@@ -2,7 +2,7 @@
 
 - 💻 Developer.
 - 📚 Learning Front and Back end skills.
-- 🧰 Studying to become a Python developer.
+- 🧰 Studying to become a FullStack Developer | Javascript | Python
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳  Born in 1999.
 - 🔗 Find me on:
