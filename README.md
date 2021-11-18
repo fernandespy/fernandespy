@@ -17,7 +17,6 @@
 - 💻 **__OS__**:
 -    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=brunofernandes23&show_icons=true&theme=tokyonight)
 [![BrunoFernandes](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofernandes23&hide=html&layout=compact&theme=tokyonight)](https://github.com/brunofernandes23/)
 
