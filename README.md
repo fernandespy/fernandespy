@@ -21,7 +21,7 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=brunofernandes23&show_icons=true&theme=tokyonight)
-https://github-readme-stats.vercel.app/api/top-langs/?username=brunofernandes23
+(https://github-readme-stats.vercel.app/api/top-langs/?username=brunofernandes23)
 
 
 
