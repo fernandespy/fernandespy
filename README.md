@@ -1,8 +1,8 @@
 # Hi there, I'm Bruno, how you doin? 👋
 
-- 💻 Javascript Developer.
-- 📚 Learning Front and Back end skills.
-- 🧰 Studying to become a FullStack Developer.
+- 💻 Intern Back End Developer.
+- 📚 Learning Back End skills.
+- 🧰 Studying to become a Javascript Developer.
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳  Born in 1999.
 - 🔗 Find me on: 
