@@ -2,7 +2,7 @@
 
 - 💻 Intern Back End Developer.
 - 📚 Learning Back End skills.
-- 🧰 Studying to become a System Analist Back End.
+- 🧰 Studying to become a Amazing Developer.
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳  Born in 1999.
 - 🔗 Find me on: 
