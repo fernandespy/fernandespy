@@ -22,6 +22,6 @@
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ##
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/brunofernandesdev/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/b.fernandesdev/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/brunofernandesdev/) [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:brunofernandes.job@gmail.com)
- 
+<div>
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]        (https://www.linkedin.com/in/brunofernandesdev/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-  badge&logo=instagram&logoColor=white">](https://www.instagram.com/b.fernandesdev/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?  &style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/brunofernandesdev/) [<img src ="https://img.shields.io/badge/Gmail-D14836? style=for-the-badge&logo=gmail&logoColor=white" />](mailto:brunofernandes.job@gmail.com)
+</div>
