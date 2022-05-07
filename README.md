@@ -1,10 +1,20 @@
-## Hi there, I'm Bruno, how you doin? 👋
+## Hi, I'm Bruno, how are you? 😊
+## “The art of programming is to organize and master complexity” - Edsger W. Dijkstra 📚
 
-- 💻 Back End and Data Science Student.
-- 📚 Learning Python.
-- 🧰 Studying to become a Amazing Developer.
-- 🔭 Based in Rio de Janeiro, Brazil.
-- ⏳ Born in 1999.
+
+```python
+    class Fernandes:
+        def __init__(self):
+            self.name = 'Bruno A. Fernandes',
+            self.birth = 'March 2, 1999',
+            self.country = 'Brazil',
+            self.phone = '+55 21 98348-0460',
+            self.occupation = 'Data Science Student || Python Developer',
+            self.study = 'I study Backend development every day and Im currently studying Data Science, Machine Learning and Automation with Python.',
+            self.hobbies = 'Play with my kids, read books, play strategic games and watch anime!',
+            self.about = ['If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking!😁', '
+In my day to day I carry out projects to consolidate my studies using Python. I create APIs using Flask, Django, I make projects using Pandas and Numpy for Data! And Ive also developed some projects using Node JS and Express!']
+```
 
 ##
 
