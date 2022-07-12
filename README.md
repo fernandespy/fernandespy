@@ -9,11 +9,15 @@
             self.birth = 'March 2, 1999',
             self.country = 'Brazil',
             self.phone = '+55 21 98348-0460',
-            self.occupation = 'Data Science Student || Python Developer',
-            self.study = 'I study Backend development every day and Im currently studying Data Science, Machine Learning and Python Development.',
-            self.hobbies = 'Play with my kids, read books, play strategic games and watch anime!',
-            self.about = ['If I could define myself in 3 words, they would certainly be: optimistic, persevering and hardworking!😁', '
-In my day to day I carry out projects to consolidate my studies using Python. I create APIs using Flask, Django, I make projects using Pandas and Numpy for Data! And Ive also developed some projects using Node JS and Express!']
+            self.occupation = 'BI Intern || Data Science Student || Python Developer',
+            self.about = ['Professional in Business Intelligence, currently performing Business Analysis such as CMV, Sales Mix, KPIs, Dashboards, using Excel, Power BI. Acquiring strong skills in Data Analysis and Processing, using Python and its technologies.
+
+I have knowledge in Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL. Git, GitHub, Linux.
+
+Acquiring knowledge in Pycaret, Docker, Machine Learning and Deep Learning Algorithms, Spark Mlib, Scikit-learn, TensorFlow, Keras, AWS SageMaker, AWS EMR, Jenkins and CI/CD techniques
+
+I try to participate in many projects where I can develop my knowledge.
+I'm focused on learning the Data area, especially the vast world of Big Data!']
 ```
 
 ##
