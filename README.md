@@ -10,10 +10,10 @@
             self.country = 'Brazil',
             self.phone = '+55 21 98348-0460',
             self.occupation = 'BI Intern || Data Science Student || Python Developer',
-            self.about = ['Tenho conhecimento em Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL, Git, GitHub, Distribuições Linux.
+            self.about = ['I have knowledge in Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL, Git, GitHub, Linux Distributions.
 
-Procuro participar de muitos projetos onde posso desenvolver meus conhecimentos.
-Meus hobbies se resumem a curtir minha família e aprender coisas novas!']
+I try to participate in many projects where I can develop my knowledge.
+My hobbies boil down to enjoying my family and learning new things!']
 ```
 
 ##
