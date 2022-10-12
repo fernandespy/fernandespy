@@ -13,7 +13,7 @@
             self.about = ['I have knowledge in Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL, Git, GitHub, Linux Distributions.
 
 I try to participate in many projects where I can develop my knowledge.
-My hobbies boil down to enjoying my family and learning new things!']
+My hobbies resume to enjoying my family and learning new things!']
 ```
 
 ##
