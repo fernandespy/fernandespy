@@ -10,14 +10,10 @@
             self.country = 'Brazil',
             self.phone = '+55 21 98348-0460',
             self.occupation = 'BI Intern || Data Science Student || Python Developer',
-            self.about = ['Intern in Business Intelligence, currently performing Business Analysis such as CMV, Sales Mix, KPIs, Dashboards, using Excel, Power BI. Acquiring strong skills in Data Analysis and Processing, using Python and its technologies.
+            self.about = ['Tenho conhecimento em Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL, Git, GitHub, Distribuições Linux.
 
-I have knowledge in Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL. Git, GitHub, Linux.
-
-Acquiring knowledge in Pycaret, Docker, Machine Learning and Deep Learning Algorithms, Spark Mlib, Scikit-learn, TensorFlow, Keras, AWS SageMaker, AWS EMR, Jenkins and CI/CD techniques
-
-I try to participate in many projects where I can develop my knowledge.
-I'm focused on learning the Data area, especially the vast world of Big Data!']
+Procuro participar de muitos projetos onde posso desenvolver meus conhecimentos.
+Meus hobbies se resumem a curtir minha família e aprender coisas novas!']
 ```
 
 ##
