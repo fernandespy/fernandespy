@@ -10,10 +10,28 @@
             self.country = 'Brazil',
             self.phone = '+55 21 98348-0460',
             self.occupation = 'BI Intern || Data Science Student || Python Developer',
-            self.about = ['I have knowledge in Python, Pandas, Numpy, Matplotlib, Seaborn, Openpyxl, Django, Flask, NodeJS, ExpressJS, MongoDB, PostgreSQL, SQL, Git, GitHub, Linux Distributions.
+            self.about = ['Hello how are you?
+Pleasure, I'm Bruno! Passionate about Technology! I always seek knowledge and I am always studying new things, and my mission is to become a reference in the data area.
 
-I try to participate in many projects where I can develop my knowledge.
-My hobbies resume to enjoying my family and learning new things!']
+My goal is always to implement the best metrics and always deliver the best solutions in a project.
+
+Some of my responsibilities currently:
+- Support the Product Owners in the Product squads;
+- Assist in the processes of the Products area;
+- Assist in the optimization and control of processes;
+- Clean and organize data for decision making;
+- Analyze and interpret the results using statistical tools and techniques;
+
+Tools:
+I have knowledge in the languages: Python, SQL and Node JS;
+Frameworks and Packages: Django, Sqlalchemy, Pandas, Numpy;
+Database: Dbeaver, SQL Server, MySQL, Postgresql and Redshift (AWS); 
+Devops: Git/Github, Docker;
+Cloud: Amazon Web Services(AWS), Amazon EC2, Amazon Redshift; Amazon S3, Amazon Glue, Amazon Athena, Amazon Lambda
+BI: Looker, Metabase, Qlik, Hubspot, Power BI;
+Agile: Kanban, Scrum, Jira; 
+
+With the use of some of these tools, I assist in the day to day my team in descriptive analysis of the company's data, and with that I bring useful information to the business.']
 ```
 
 ##
