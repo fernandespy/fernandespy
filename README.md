@@ -2,37 +2,10 @@
 ## “The art of programming is to organize and master complexity” - Edsger W. Dijkstra 📚
 
 
-```python
-    class Fernandes:
-        def __init__(self):
-            self.name = 'Bruno A. Fernandes',
-            self.birth = 'March 2, 1999',
-            self.country = 'Brazil',
-            self.phone = '+55 21 98348-0460',
-            self.occupation = 'BI Intern || Data Science Student || Python Developer',
-            self.about = ['Hello how are you?
-Pleasure, I'm Bruno! Passionate about Technology! I always seek knowledge and I am always studying new things, and my mission is to become a reference in the data area.
-
-My goal is always to implement the best metrics and always deliver the best solutions in a project.
-
-Some of my responsibilities currently:
-- Support the Product Owners in the Product squads;
-- Assist in the processes of the Products area;
-- Assist in the optimization and control of processes;
-- Clean and organize data for decision making;
-- Analyze and interpret the results using statistical tools and techniques;
-
-Tools:
-I have knowledge in the languages: Python, SQL and Node JS;
-Frameworks and Packages: Django, Sqlalchemy, Pandas, Numpy;
-Database: Dbeaver, SQL Server, MySQL, Postgresql and Redshift (AWS); 
-Devops: Git/Github, Docker;
-Cloud: Amazon Web Services(AWS), Amazon EC2, Amazon Redshift; Amazon S3, Amazon Glue, Amazon Athena, Amazon Lambda
-BI: Looker, Metabase, Qlik, Hubspot, Power BI;
-Agile: Kanban, Scrum, Jira; 
-
-With the use of some of these tools, I assist in the day to day my team in descriptive analysis of the company's data, and with that I bring useful information to the business.']
-```
+💻I'm a Data Engineer and Python Developer.
+🧰 Studying to become a Data Engineering Specialist.
+🏠Based in Rio de Janeiro, Brazil.
+⏳ Born in 1999.
 
 ##
 
