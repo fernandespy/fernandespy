@@ -2,10 +2,10 @@
 ## “The art of programming is to organize and master complexity” - Edsger W. Dijkstra 📚
 
 
-💻I'm a Data Engineer and Python Developer.
-🧰 Studying to become a Data Engineering Specialist.
-🏠Based in Rio de Janeiro, Brazil.
-⏳ Born in 1999.
+- 💻I'm a Data Engineer and Python Developer.
+- 🧰 Studying to become a Data Engineering Specialist.
+- 🏠Based in Rio de Janeiro, Brazil.
+- ⏳ Born in 1999.
 
 ##
 
