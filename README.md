@@ -2,8 +2,7 @@
 ## “The art of programming is to organize and master complexity” - Edsger W. Dijkstra 📚
 
 
-- 💻I'm a Data Engineer and Python Developer.
-- 🧰 Studying to become a Data Engineering Specialist.
+- 💻I'm a Software and Data Engineer.
 - 🏠Based in Rio de Janeiro, Brazil.
 - ⏳ Born in 1999.
 
@@ -35,8 +34,6 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/fernandespy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/fernandes.py/" target="_blank"><img height="28" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the- badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/fernandespyy/" target="_blank"><img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:brunofernandes.job@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   ![Snake animation](https://github.com/fernandespy/fernandespy/blob/output/github-contribution-grid-snake.svg)
