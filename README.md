@@ -1,12 +1,53 @@
-## Hi, I'm Bruno, how are you? 😊
+## Hi, I'm Bruno! 😊
 ## “The art of programming is to organize and master complexity” - Edsger W. Dijkstra 📚
 
 
-- 💻I'm a Software and Data Engineer.
-- 🏠Based in Rio de Janeiro, Brazil.
-- ⏳ Born in 1999.
+I'm a **Backend & Data Engineer** based in Brazil, with strong experience building scalable backend systems, data platforms, and cloud‑native architectures. I enjoy turning complex business problems into clean, reliable, and well‑designed software — with a soft spot for distributed systems and automation.
 
-##
+---
+
+## 🚀 What I Work On
+
+- 🔧 **Backend services** using **Java (Spring Boot)** with **Hexagonal Architecture** and **Domain‑Driven Design (DDD)**
+- 📊 **Data Engineering pipelines**, from ingestion to analytics‑ready datasets
+- ☁️ **Cloud‑native solutions on AWS**, focused on scalability, reliability, and cost efficiency
+- ⚙️ **Event‑driven and microservices architectures**
+- 🚀 Infrastructure automation and CI/CD pipelines
+
+---
+
+## 🔧 Tech Stack
+
+### 🧠 Backend & Data
+- **Java** (Spring Boot, DDD, Hexagonal Architecture)
+- **Python** (FastAPI, Flask, Django, Pandas, NumPy, SQLAlchemy)
+- **Golang** (high‑performance services and tooling)
+- **Node.js** (backend services and integrations)
+
+### ☁️ Cloud & Data Platforms (AWS)
+- S3, Glue, Athena, Redshift
+- RDS, EMR, EBS, MQ
+- Data Lakes and API integrations (Zendesk, HubSpot, etc.)
+
+### 🗄️ Databases
+- PostgreSQL, MySQL, SQL Server
+- Amazon Redshift
+
+### 🧱 Infrastructure & DevOps
+- Docker & Kubernetes
+- Terraform
+- CI/CD with Jenkins and Harness
+- Cloud‑native and distributed systems design
+
+### 📈 BI & Analytics
+- Looker, Metabase, Qlik
+- Power BI, HubSpot
+
+### 🗂️ Version Control & Process
+- Git
+- Agile workflows: Scrum & Kanban
+
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Go" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
